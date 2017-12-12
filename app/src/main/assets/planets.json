@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Planeta Mercúrio",
+    "shortDescription": "Mercúrio é um planeta rochoso, destituído de satélites e atmosfera rarefeita, sendo...",
+    "description": "Mercúrio é um planeta rochoso, destituído de satélites e atmosfera rarefeita, sendo o menor planeta do sistema solar e o mais próximo do sol. Por esse motivo apresenta temperaturas bastante elevadas de aproximadamente 400°C. Por outro lado, a face do planeta não iluminada pelo sol pode atingir temperaturas de aproximadamente -170 °C. O movimento de rotação do planeta é de 59 dias, enquanto o de translação é de 87 dias.",
+    "imageUrl": "https://static.todamateria.com.br/upload/55/2c/552c10230a2eb-planeta-mercurio-medium.jpg",
+    "source": "https://www.todamateria.com.br/planeta-mercurio/"
+  },
+  {
+    "name": "Planeta Vênus",
+    "shortDescription": "Conhecido como “Estrela D’Alva”, por causa de seu forte brilho, Vênus...",
+    "description": "Conhecido como “Estrela D’Alva”, por causa de seu forte brilho, Vênus tal qual Mercúrio é um planeta que não possui satélite. Visível do nosso planeta, Vênus é o segundo planeta a partir do sol e o mais perto do planeta Terra. Seu movimento de rotação é um dos mais lentos, com 243 dias para completar a volta em torno se si mesmo; e, o movimento de translação de 225 dias aproximadamente. Curioso notar que mesmo sendo o segundo planeta a partir do sol (depois de Mercúrio), Vênus é o planeta mais quente do sistema solar, com temperaturas que podem atingir 480°C. Assemelha-se com o planeta Terra no tocante ao tamanho, composição, estrutura, massa, densidade e força gravitacional.",
+    "imageUrl": "https://static.todamateria.com.br/upload/va/nu/va_nus_2.jpg",
+    "source": "https://www.todamateria.com.br/planeta-venus/"
+  },
+  {
+    "name": "Planeta Terra",
+    "shortDescription": "Terceiro planeta do sistema solar a partir do sol, o planeta Terra é...",
+    "description": "Terceiro planeta do sistema solar a partir do sol, o planeta Terra é rochoso, com atmosfera gasosa e temperatura média de 15°C. Possui um satélite natural, a lua, e a quantidade de água existente no planeta, também chamado de “planeta azul”, aliada à quantidade de oxigênio, permitem o desenvolvimento da vida no planeta, sendo o único do sistema solar com vida humana. O movimento de rotação terrestre dura aproximadamente 24 horas (tempo de 1 dia); enquanto o movimento de translação do planeta dura 365 dias (tempo de 1 ano), exceto nos anos bissextos, os quais apresentam 366 dias.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/300px-The_Earth_seen_from_Apollo_17.jpg",
+    "source": "https://www.todamateria.com.br/planeta-terra/"
+  },
+  {
+    "name": "Planeta Marte",
+    "shortDescription": "Quarto planeta a partir do sol e o mais visível do planeta Terra, Marte...",
+    "description": "Quarto planeta a partir do sol e o mais visível do planeta Terra, Marte possui dois satélites naturais “Fobos e Deimos”, sendo o segundo menor planeta do sistema solar, atrás de Mercúrio. Também chamado de “Planeta Vermelho”, devido às partículas de óxido de ferro presentes em sua atmosfera, o planeta Marte é um planeta rochoso, frio e seco. O movimento de rotação de Marte assemelha-se ao da Terra, com duração de 24 horas e 37 minutos, enquanto que o movimento de translação do planeta é de 687 dias.",
+    "imageUrl": "https://static.todamateria.com.br/upload/ma/rt/marte.jpg",
+    "source": "https://www.todamateria.com.br/planeta-marte/"
+  },
+  {
+    "name": "Planeta Júpiter",
+    "shortDescription": "Planeta Gasoso (composto sobretudo por hidrogênio), Júpiter...",
+    "description": "Planeta Gasoso (composto sobretudo por hidrogênio), Júpiter é o maior planeta do sistema solar, 1.300 vezes maior que o tamanho da Terra. Quinto planeta a partir do sol, Júpiter possui o maior número de satélites, 67 satélites, e apresenta temperaturas de até -150°C. Seu movimento de rotação dura 9 horas e 55 minutos, considerado o movimento de rotação mais rápido de todos os planetas do sistema solar; enquanto o movimento de translação do planeta corresponde a cerca de 12 anos terrestres.",
+    "imageUrl": "https://static.todamateria.com.br/upload/55/2b/552be6d5b1e11-planeta-jupiter-medium.jpg",
+    "source": "https://www.todamateria.com.br/planeta-jupiter/"
+  },
+  {
+    "name": "Planeta Saturno",
+    "shortDescription": "Segundo maior planeta do sistema solar, depois de Júpiter, Saturno...",
+    "description": "Segundo maior planeta do sistema solar, depois de Júpiter, Saturno é conhecido pelos seus anéis, formados por rocha, gelo e poeira. Sexto planeta a partir do sol, depois de Júpiter, Saturno é o planeta do sistema solar que possui muitos satélites: 62 luas. Composto basicamente de hidrogênio, ele possui temperatura média de -140°C, sendo que seu movimento de rotação dura 10 horas e 14 minutos e o de translação cerca de 30 anos terrestres.",
+    "imageUrl": "https://static.todamateria.com.br/upload/55/2b/552be7e754ea5-planeta-saturno-medium.jpg",
+    "source": "https://www.todamateria.com.br/planeta-saturno/"
+  },
+  {
+    "name": "Planeta Urano",
+    "shortDescription": "Terceiro maior planeta do sistema solar e sétimo planeta a partir do sol, Urano...",
+    "description": "Terceiro maior planeta do sistema solar e sétimo planeta a partir do sol, Urano é um planeta gasoso que apresenta médias de temperatura de -185°C e possui 27 satélites. Possui uma característica interessante tocante ao seu eixo de rotação com quase noventa graus em relação com o plano de sua órbita, que por sua vez é muito extensa. Dessa forma, o movimento de rotação do planeta dura 17 horas aproximadamente, enquanto o movimento de translação dura cerca de 165 anos terrestres.",
+    "imageUrl": "https://static.todamateria.com.br/upload/55/2c/552c107117c37-planeta-urano-medium.jpg",
+    "source": "https://www.todamateria.com.br/planeta-urano/"
+  },
+  {
+    "name": "Planeta Netuno",
+    "shortDescription": "Planeta do sistema solar mais distante do sol e o quarto maior em tamanho, Netuno...",
+    "description": "Planeta do sistema solar mais distante do sol e o quarto maior em tamanho, Netuno possui 14 satélites naturais e apresenta temperaturas médias de aproximadamente -200°C. Trata-se de um planeta gasoso, formado principalmente por hidrogênio, hélio, amônio, metano e água. O movimento de rotação do planeta dura cerca de 16 horas, enquanto sua translação equivale a 164 anos terrestres.",
+    "imageUrl": "https://static.todamateria.com.br/upload/55/2c/552c1951b24cd-planeta-netuno-medium.jpg",
+    "source": "https://www.todamateria.com.br/planeta-netuno/"
+  }
+]
